@@ -1,9 +1,4 @@
-# 1er etapa la Transcripción (ocurre en el núcleo), 
-# el adn guia la síntesis del el arn mensajero (arn polimerasa), 
-# que luego viaja al citosol y llega al ribosoma, donde se lee 
-# (con ayuda del ARN de transferencia) 
-# y se empalman con los aminoácidos correspondientes para generar la proteína 
-# (etapa: traducción)
+#!/usr/bin/env python3
 
 # Diseñá un juego rpg interactivo sobre la expresión génica que se muestre en la consola 
 # (que se ejecute mediante CLI de manera similar a lo visto en el Bashaton).
